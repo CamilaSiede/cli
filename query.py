@@ -1,11 +1,11 @@
-"""Command line interface to query the stock.
+# Command line interface to query the stock.
 
-To iterate the source data you can use the following structure:
+# To iterate the source data you can use the following structure:
 
-for item in warehouse1:
-    # Your instructions here.
-    # The `item` name will contain each of the strings (item names) in the list.
-"""
+# for item in warehouse1:
+#     # Your instructions here.
+#     # The `item` name will contain each of the strings (item names) in the list.
+
 
 from data import warehouse1, warehouse2
 
